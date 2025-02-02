@@ -1,18 +1,16 @@
-# [Project Name] 🎯
+# Women safety web page🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Horizon 
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
+- Member 1: Limna Reji - CEA
+- Member 2: Jesteena Reji - CEA
+- Member 3: Ajanyamol Thomas -CEA
 ### Hosted Project Link
-[mention your project hosted project link here]
-
+papaya-cascaron-bbcd331.netl
 ### Project Description
 [2-3 lines about what your project does]
 
