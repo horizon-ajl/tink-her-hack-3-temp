@@ -73,6 +73,8 @@ For Hardware:
 
 ### Project Demo
 # Video
+https://www.loom.com/share/abb18df212094f8db32e1328713c6690?sid=9a8321a5-5453-4e32-bf74-f9c36b99c8a3
+
 https://drive.google.com/drive/folders/1BZ0ivvZzKeRrLKK2i-p87J0Ex8-KZ3E5
 
 ---
